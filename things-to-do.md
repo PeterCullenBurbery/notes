@@ -16,3 +16,9 @@ Note: If you don't run this script, the installation will fail.
 Note: To confirm automatically next time, use '-y' or consider:
 choco feature enable -n allowGlobalConfirmation
 Do you want to run the script?([Y]es/[A]ll - yes to all/[N]o/[P]rint):
+
+get money from mom
+Kroger 85.82 dollars
+
+write a check
+don't send Zelle
