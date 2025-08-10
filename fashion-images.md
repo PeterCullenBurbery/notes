@@ -1,0 +1,1 @@
+Draw a woman wearing expensive clothes.
