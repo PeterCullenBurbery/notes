@@ -22,3 +22,5 @@ Kroger 85.82 dollars
 
 write a check
 don't send Zelle
+
+get OS Forensics cracked
