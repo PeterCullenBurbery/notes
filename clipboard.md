@@ -273,3 +273,31 @@ C:\GitHub-repositories\time-stuff\powershell> Get-UnderscoreTimestamp | Tee-Obje
 2025_008_010_014_016_030_065980200_America_slash_New_York_2025_W032_007_2025_222_1754849790_065980200_192_168_004_042_LANDINGCOMPUTER_LANDINGCOMPUTER_backslash_peter_Powershell_7_5_2
 C:\GitHub-repositories\time-stuff\powershell>
 ```
+
+## Go
+
+```
+package main
+
+import (
+    "fmt"
+    "log"
+
+    "github.com/atotto/clipboard"
+    "github.com/PeterCullenBurbery/go_functions_002/v5/date_time_functions"
+)
+
+func main() {
+    timestamp, err := date_time_functions.Get_timestamp()
+    if err != nil {
+        log.Fatalf("Failed to get timestamp: %v", err)
+    }
+
+    fmt.Println(timestamp)
+
+    // Copy to clipboard using atotto/clipboard package
+    if err := clipboard.WriteAll(timestamp); err != nil {
+        log.Fatalf("Failed to copy to clipboard: %v", err)
+    }
+}
+```
