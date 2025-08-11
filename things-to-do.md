@@ -40,3 +40,9 @@ Step 3: Download the file, unzip using WinRAR. Password for unzip – “2025“
 Step 4: Open .exe file Run as administrator!
 
 add thing that automates adding shell:AppsFolder to desktop.
+
+clean up desktop
+
+check out libreoffice base.
+
+connect to oracle.
