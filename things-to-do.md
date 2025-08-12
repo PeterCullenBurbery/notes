@@ -54,3 +54,5 @@ automate install Winrar
 fix ssh so it works on windows 11
 
 figure out terminal that supports terminal
+
+automate GitHub desktop
