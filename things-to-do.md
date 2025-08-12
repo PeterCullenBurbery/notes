@@ -48,3 +48,5 @@ check out libreoffice base.
 connect to oracle.
 
 take a screenshot every second and upload to cloud
+
+automate install Winrar
