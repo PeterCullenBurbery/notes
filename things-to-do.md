@@ -50,3 +50,5 @@ connect to oracle.
 take a screenshot every second and upload to cloud
 
 automate install Winrar
+
+fix ssh so it works on windows 11
