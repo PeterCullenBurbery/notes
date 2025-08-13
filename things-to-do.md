@@ -62,3 +62,7 @@ add C# dev kit to vs code extensions in configuration-003
 # Fashion
 
 - learn about Elizabethean dresses
+
+# fashion end
+
+learn how to automate autosave Visual Studio
