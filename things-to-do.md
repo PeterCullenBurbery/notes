@@ -58,3 +58,7 @@ figure out terminal that supports terminal
 automate GitHub desktop
 
 add C# dev kit to vs code extensions in configuration-003
+
+# Fashion
+
+- learn about Elizabethean dresses
