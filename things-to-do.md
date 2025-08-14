@@ -66,3 +66,12 @@ add C# dev kit to vs code extensions in configuration-003
 # fashion end
 
 learn how to automate autosave Visual Studio
+
+maybe have Powershell log line indicate what type of computer-Windows 11 pro, Windows Server 2025, etc.
+
+2025_008_014_015_041_033_556502500_America_slash_New_York_2025_W033_004_2025_226_1755200493_556502500_192_168_004_042_LANDINGCOMPUTER_LANDINGCOMPUTER_backslash_peter_Powershell_7_5_2
+C:\Users\peter>
+2025_008_014_015_042_020_405339100_America_slash_New_York_2025_W033_004_2025_226_1755200540_405339100_192_168_004_042_LANDINGCOMPUTER_LANDINGCOMPUTER_backslash_peter_Powershell_7_5_2
+C:\Users\peter>
+2025_008_014_015_042_021_060365200_America_slash_New_York_2025_W033_004_2025_226_1755200541_060365200_192_168_004_042_LANDINGCOMPUTER_LANDINGCOMPUTER_backslash_peter_Powershell_7_5_2
+C:\Users\peter>
