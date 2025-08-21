@@ -1,0 +1,1 @@
+Be as concise as possible. The judge has a lot to go through. Do not go rambling.
