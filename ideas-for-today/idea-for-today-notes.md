@@ -9,3 +9,4 @@ purchase fashion stylist no banner ads for 1 month for 10 dollars
 work on remo tasks
 get ID working
 work on Amazon cloud
+work on sueing mom and pop
