@@ -11,3 +11,4 @@ get ID working
 work on Amazon cloud
 work on sueing mom and pop
 work on buying phone
+get my heritage. its 400 dollars a year
