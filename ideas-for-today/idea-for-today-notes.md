@@ -22,3 +22,5 @@ get new deodorant.
 change how ShareX names files.
 Write a program to rename ShareX files based on when they were created.
 get grandmary to use Venmo
+you can buy Visual Studio professional for about 30 dollars.
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpTFWqqjqHCfbMZTdVDcPWVzp
