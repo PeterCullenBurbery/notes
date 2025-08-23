@@ -21,3 +21,4 @@ get mouse pad.
 get new deodorant.
 change how ShareX names files.
 Write a program to rename ShareX files based on when they were created.
+get grandmary to use Venmo
