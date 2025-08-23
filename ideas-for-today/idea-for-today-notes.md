@@ -19,3 +19,4 @@ figure out how to get into fashion stylist's files, apk, android, hack the box, 
 return keys to Amazon.
 get mouse pad.
 get new deodorant.
+change how ShareX names files.
