@@ -18,3 +18,4 @@ add a thing that takes a screenshot every second. The problem is, I can't store 
 figure out how to get into fashion stylist's files, apk, android, hack the box, etc.
 return keys to Amazon.
 get mouse pad.
+get new deodorant.
