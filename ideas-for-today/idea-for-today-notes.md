@@ -16,3 +16,5 @@ work on zero dates. What I mean is that if you are making a journal entry for 20
 add a take screenshot every second thing.
 add a thing that takes a screenshot every second. The problem is, I can't store it in Git because you reach 100 mb commit limit, quick, unless you set up automatic commits or something.
 figure out how to get into fashion stylist's files, apk, android, hack the box, etc.
+return keys to Amazon.
+get mouse pad.
