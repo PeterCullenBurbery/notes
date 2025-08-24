@@ -25,3 +25,4 @@ get grandmary to use Venmo
 you can buy Visual Studio professional for about 30 dollars.
 https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpTFWqqjqHCfbMZTdVDcPWVzp
 learn how to transfer files off Bluestacks.
+get a shaver on amazon.
