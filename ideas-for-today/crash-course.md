@@ -34,3 +34,8 @@ outbreak science
 philosophy
 physics
 political theory
+psychology
+public health
+quimica what?
+religions
+sex ed
