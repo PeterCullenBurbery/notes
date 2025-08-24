@@ -28,3 +28,9 @@ literature
 media literacy
 mythology
 native american history
+navigating digital information
+organic chemistry
+outbreak science
+philosophy
+physics
+political theory
