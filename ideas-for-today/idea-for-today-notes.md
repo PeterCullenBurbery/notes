@@ -31,3 +31,4 @@ azure blob storage.
 Could we get some new chairs for the guest room? The wicker chairs hurt my butt.
 uninstall DragonDisk.
 noxplayer.
+look up crash course world history.
