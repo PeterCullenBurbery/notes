@@ -12,3 +12,19 @@ business
 chemistry
 climate+energy
 computer science
+ecology
+economics
+engineering
+european history
+film criticism
+film history
+film production
+games
+geography
+history of science
+intellectual property
+linguistics
+literature
+media literacy
+mythology
+native american history
