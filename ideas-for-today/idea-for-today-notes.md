@@ -33,3 +33,5 @@ uninstall DragonDisk.
 noxplayer.
 look up crash course world history.
 update sharex automation to have file names be like "C:\Users\peter\Documents\ShareX\Screenshots\2025-08\2025_08_24_08_35_57_480.png".
+I like full screen delay also needs to be updated.
+create a program to update all choco programs. all winget programs, for example. safely.
