@@ -28,3 +28,4 @@ learn how to transfer files off Bluestacks.
 get a shaver on amazon.
 There's some duplication between christmas and cozy-elegance.
 azure blob storage.
+Could we get some new chairs for the guest room? The wicker chairs hurt my butt.
