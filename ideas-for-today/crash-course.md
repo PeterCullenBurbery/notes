@@ -39,3 +39,12 @@ public health
 quimica what?
 religions
 sex ed
+sociology
+statistics
+study skills
+theater
+government
+U.S. history
+world history
+world history II
+zoology
