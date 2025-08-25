@@ -40,4 +40,4 @@ get directory opus latest version. around 23 us dollars.
 add capital one credit cards to new password database.
 set up remote desktop to connect to mom and pop's computer. set up rustdesk.
 reschedule pentest+.
-the scale's broken.
+the scale's broken, so its not measuring weights.
