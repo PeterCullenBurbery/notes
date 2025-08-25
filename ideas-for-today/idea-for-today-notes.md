@@ -79,4 +79,4 @@ MNIST was considered “too easy” — modern models achieve near-perfect accur
 
 Fashion-MNIST offers a dataset with the same format and size but harder classification problem.
 
-Fashion-MNIST. Anytime you can more fashion, good. That's exactly why. That's why I play fashion.
+Fashion-MNIST. Anytime you can more fashion, good. That's exactly why. That's why I play fashion. (That's exactly why I play fashion. well, pooh).
