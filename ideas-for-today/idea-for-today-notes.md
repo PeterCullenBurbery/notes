@@ -37,3 +37,4 @@ I like full screen delay also needs to be updated.
 create a program to update all choco programs. all winget programs, for example. safely.
 make a list of things I want.
 get directory opus latest version.
+add capital one credit cards to new password database.
