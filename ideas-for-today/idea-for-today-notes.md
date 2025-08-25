@@ -36,5 +36,5 @@ update sharex automation to have file names be like "C:\Users\peter\Documents\Sh
 I like full screen delay also needs to be updated.
 create a program to update all choco programs. all winget programs, for example. safely.
 make a list of things I want.
-get directory opus latest version.
+get directory opus latest version. around 23 us dollars.
 add capital one credit cards to new password database.
