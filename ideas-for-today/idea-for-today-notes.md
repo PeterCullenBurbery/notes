@@ -38,3 +38,4 @@ create a program to update all choco programs. all winget programs, for example.
 make a list of things I want.
 get directory opus latest version. around 23 us dollars.
 add capital one credit cards to new password database.
+set up remote desktop to connect to mom and pop's computer. set up rustdesk.
