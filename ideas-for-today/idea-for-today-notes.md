@@ -83,3 +83,4 @@ Fashion-MNIST. Anytime you can more fashion, good. That's exactly why. That's wh
 
 respond to Melissa Anderson.
 get pants from Amazon.
+check that the unix timestamp includes milliseconds.
