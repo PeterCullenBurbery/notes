@@ -52,3 +52,4 @@ get wells fargo card.
 raise credit limit on capital one cards.
 lock doors.
 reach out to Johnathan Kozar.
+get mom to pay for pdf editor.
