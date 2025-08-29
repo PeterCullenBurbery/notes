@@ -45,42 +45,6 @@ put 50 dollars in fidelity fund.
 add unix timestamp to Sharex.
 aquatic is back up in the air.
 God's name is not (present).
-Fashion-MNIST
-
-Created by Zalando Research as a more challenging drop-in replacement for MNIST.
-
-Same structure: 28×28 grayscale images, 60k training, 10k test.
-
-But instead of digits, it contains 10 categories of fashion items, such as:
-
-T-shirt/top
-
-Trouser
-
-Pullover
-
-Dress
-
-Coat
-
-Sandal
-
-Shirt
-
-Sneaker
-
-Bag
-
-Ankle boot
-
-Why It Exists
-
-MNIST was considered “too easy” — modern models achieve near-perfect accuracy.
-
-Fashion-MNIST offers a dataset with the same format and size but harder classification problem.
-
-Fashion-MNIST. Anytime you can more fashion, good. That's exactly why. That's why I play fashion. (That's exactly why I play fashion. well, pooh).
-
 respond to Melissa Anderson.
 get pants from Amazon.
 check that the unix timestamp includes milliseconds.
