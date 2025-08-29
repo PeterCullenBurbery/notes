@@ -41,7 +41,6 @@ add capital one credit cards to new password database.
 set up remote desktop to connect to mom and pop's computer. set up rustdesk.
 reschedule pentest+.
 the scale's broken, so its not measuring weights.
-put 50 dollars in fidelity fund.
 add unix timestamp to Sharex.
 respond to Melissa Anderson.
 get pants from Amazon.
