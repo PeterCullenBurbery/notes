@@ -41,7 +41,6 @@ add capital one credit cards to new password database.
 set up remote desktop to connect to mom and pop's computer. set up rustdesk.
 the scale's broken, so its not measuring weights.
 add unix timestamp to Sharex.
-respond to Melissa Anderson.
 get pants from Amazon.
 check that the unix timestamp includes milliseconds.
 get wells fargo card.
